@@ -7,8 +7,8 @@ require "./function.php";
   // collect value of input field
 
   
-  $user = "admin"; 
-  $pass = "1";
+  $user = "Loc123"; 
+  $pass = "123";
   CheckLogin($user,$pass);
 
 ?>
